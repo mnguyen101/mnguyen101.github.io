@@ -1,0 +1,43 @@
+body{
+	background-image: url("/Users/matthewnguyen/Downloads/wallpaper_hw1.jpg");
+}
+
+.headshot{
+	text-align: center;
+	font-size: 10px;
+}
+
+
+.links{
+	text-align: center;
+	font-size: 20px;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 0;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.quote{
+	color: darkred;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+
+.cshome{
+	text-align: center;
+	font-size: 20px;
+	bottom: 0%;
+	position: fixed;
+	width: 100%;
+}
